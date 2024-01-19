@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598c98e28a37d9c49a507dc572234ed0, type: 3}
+  m_Name: Events
+  m_EditorClassIdentifier: 
+  events:
+  - enemyPrefab: {fileID: 3139748173663682703, guid: 105b74f6a19694748a5156242b937153, type: 3}
+    spawnMinute: 4
+    spawnSecond: 0
+    duration: 14
+    eventPrefab: {fileID: 5065848223794859708, guid: 118e4e3e00af4ac4ab4e5dc36b45191b, type: 3}
+  - enemyPrefab: {fileID: 3139748173663682703, guid: 0808ee184621a1748ab53447489b1c76, type: 3}
+    spawnMinute: 1
+    spawnSecond: 30
+    duration: 6
+    eventPrefab: {fileID: 2300063047666873444, guid: fe9c0199f00a4dd44b10ff271122d78a, type: 3}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92880e9250d2043bb581a3c301d71e, type: 3}
+  m_Name: Informations
+  m_EditorClassIdentifier: 
+  information:
+  - Portrait: {fileID: 21300000, guid: 23a8c2fe018e9914fa5a85a0571b3fbd, type: 3}
+    AttackIcon: {fileID: 21300000, guid: 27ee76c79cab7774ab999b37839a1966, type: 3}
+    AttackName: "S\xFAng Ng\u1EAFn"
+    AttackDescription: "B\u1EAFn ra 1 vi\xEAn \u0111\u1EA1n theo h\u01B0\u1EDBng
+      ch\u1EC9 \u0111\u1ECBnh"
+    SkillIcon: {fileID: 21300000, guid: c95366e631ae4c84384240c76fc1b75e, type: 3}
+    SkillName: "Ng\u01B0ng \u0110\u1ECDng"
+    SkillDescription: "T\u1EA1m th\u1EDDi khi\u1EBFn th\u1EDDi gian tr\xF4i ch\u1EADm
+      l\u1EA1i, t\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n v\xE0 t\u1EA5n c\xF4ng"
+    FaceIcon: {fileID: 21300000, guid: e9b3d304721edd147b9faed992e3a507, type: 3}
+  - Portrait: {fileID: 21300000, guid: d0bea575a013fd7419323f50aa917f70, type: 3}
+    AttackIcon: {fileID: 21300000, guid: b9ca4b21134661241b46554c5d40f06d, type: 3}
+    AttackName: "\u0110inh Ba"
+    AttackDescription: "\u0110\xE2m \u0111inh ba v\u1EC1 h\u01B0\u1EDBng ch\u1EC9
+      \u0111\u1ECBnh"
+    SkillIcon: {fileID: 21300000, guid: 87c2e5970225e8d4ba2b7d161f18df21, type: 3}
+    SkillName: "Cu\u1ED3ng Lo\u1EA1n"
+    SkillDescription: "Chuy\u1EC3n sang tr\u1EA1ng th\xE1i chi\u1EBFn \u0111\u1EA5u,
+      kh\xF4ng th\u1EC3 b\u1ECB t\u1EA5n c\xF4ng v\xE0 t\u0103ng c\xE1c ch\u1EC9
+      s\u1ED1"
+    FaceIcon: {fileID: 21300000, guid: 1cdc4d7a0dd3d75419380ef5f928d671, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Thrust Weapon Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7951504563020707802, guid: bdf84a4ed7232d5449824df1c7ae96bd, type: 3}
+  damage: 44
+  speed: 10
+  cooldownDuration: 1
+  decayTime: 3
+  knockBack: 0
+  pierce: 2
+  attackRadius: 0
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: "\u0110inh Ba Level 2"
+  description: "T\u0103ng s\xE1t th\u01B0\u01A1ng v\xE0 t\u1ED1c \u0111\u1ED9 t\u1EA5n
+    c\xF4ng"
+  icon: {fileID: 21300000, guid: 5ab6ac76a8faf2d429f217404a5375fc, type: 3}
+  sprite: {fileID: 6539481545815433450, guid: 7f29ec1445cd5b24b92306c5eeddd0a5, type: 3}
+  summonNum: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Acid Rain Weapon
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7421208816057621251, guid: 57c4325e5ca4d3142afc7d813a2636a6, type: 3}
+  damage: 22
+  speed: 0
+  cooldownDuration: 1
+  decayTime: 0
+  knockBack: 0
+  pierce: 0
+  attackRadius: 0
+  level: 1
+  nextLevelPrefab: {fileID: 7421208816057621251, guid: 660adedb9da728f4d856573cf357911d, type: 3}
+  name: "M\u01B0a Axit"
+  description: "B\u1EAFn ra c\xE1c qu\u1EA3 c\u1EA7u axit v\xE0 t\u1EA1m th\u1EDDi
+    t\u1EA1o ra 1 v\xF9ng \u0111\u1ED9c"
+  icon: {fileID: 21300000, guid: 6a7f6773daa3bf041b130c6cc09ccff1, type: 3}
+  sprite: {fileID: 8731970021839858401, guid: 8aa505f6c2804e94eb8aa5bb801bd886, type: 3}
+  summonNum: 0

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f54af068021bfe548b2a4c8da01f2794, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  character:
+  - StartWeapon: {fileID: 1977112179518941391, guid: 16c68dbc5ab8b4e478aab73a5c1c83ab, type: 3}
+    Sprite: {fileID: 0}
+    Name: Amelia Watson
+    MaxHealth: 75
+    Damage: 1.3
+    Speed: 1.35
+    Crit: 15
+    Pickup: 100
+    Defend: 0
+    Haste: 0
+    LifeSteal: 0
+    Absorb: 0
+    ID: 0
+  - StartWeapon: {fileID: 7951504563020707802, guid: 72a32ef500c3490428afad81d78da8b0, type: 3}
+    Sprite: {fileID: 0}
+    Name: Gawr Gura
+    MaxHealth: 65
+    Damage: 1.1
+    Speed: 1.4
+    Crit: 10
+    Pickup: 100
+    Defend: 0
+    Haste: 0
+    LifeSteal: 0
+    Absorb: 0
+    ID: 1

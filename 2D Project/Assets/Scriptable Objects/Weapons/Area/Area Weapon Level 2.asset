@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Area Weapon Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6773540657714597988, guid: a1c03d99a7993cd49a76bbc6a63884ee, type: 3}
+  damage: 44
+  speed: 2
+  cooldownDuration: 6
+  decayTime: 4
+  knockBack: 0
+  pierce: 20
+  attackRadius: 3
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: "C\u01B0a S\u1EAFt Lv2"
+  description: "T\u0103ng t\u1ED1c \u0111\u1ED9 v\xE0 s\u1ED1 l\u01B0\u1EE3ng l\u01B0\u1EE1i
+    c\u01B0a"
+  icon: {fileID: 21300000, guid: d1a6e35e6c3d3e945b8dc784b1204259, type: 3}
+  sprite: {fileID: 6131154842760392290, guid: 9f62b136689b0944ba6b96fd9e970ddc, type: 3}
+  summonNum: 3

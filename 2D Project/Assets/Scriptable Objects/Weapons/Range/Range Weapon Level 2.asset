@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Range Weapon Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1977112179518941391, guid: 35bf12217327dd545a539301cee6b4ad, type: 3}
+  damage: 44
+  speed: 15
+  cooldownDuration: 0.5
+  decayTime: 0
+  knockBack: 0
+  pierce: 4
+  attackRadius: 0
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: "S\xFAng Ng\u1EAFn Lv2"
+  description: "T\u1EAFng t\u1ED1c \u0111\u1ED9 b\u1EAFn, s\xE1t th\u01B0\u01A1ng
+    v\xE0 s\u1ED1 l\u01B0\u1EE3ng xuy\xEAn th\u1EA5u"
+  icon: {fileID: 21300000, guid: c39014929d71a7f479d9893bc6822350, type: 3}
+  sprite: {fileID: 8030919149954530227, guid: c06fab9d678e77443bd20b3674ed6175, type: 3}
+  summonNum: 0

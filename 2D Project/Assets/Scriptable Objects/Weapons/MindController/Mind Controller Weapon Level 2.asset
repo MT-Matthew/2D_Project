@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Mind Controller Weapon Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2941623740270506402, guid: 6f23faec7a0eebe4c9f417d3d74ff980, type: 3}
+  damage: 0
+  speed: 0
+  cooldownDuration: 1.5
+  decayTime: 0
+  knockBack: 0
+  pierce: 0
+  attackRadius: 0
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: "Tia T\u1EA9y N\xE3o Level 2"
+  description: "T\u0103ng t\u1ED1c \u0111\u1ED9 t\u1EA1o \xE1nh s\xE1ng"
+  icon: {fileID: 21300000, guid: 981fd8c3bdcdad7469ad4f48c96021e9, type: 3}
+  sprite: {fileID: 2207809496895544976, guid: f6c3469b09be9724398d10f1ccccc92b, type: 3}
+  summonNum: 0

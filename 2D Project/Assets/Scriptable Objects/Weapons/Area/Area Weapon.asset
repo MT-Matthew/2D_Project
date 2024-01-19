@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Area Weapon
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6773540657714597988, guid: 82c1e9efbeb477541a2caf918739878f, type: 3}
+  damage: 22
+  speed: 1
+  cooldownDuration: 6
+  decayTime: 4
+  knockBack: 0
+  pierce: 10
+  attackRadius: 3
+  level: 1
+  nextLevelPrefab: {fileID: 6773540657714597988, guid: a1c03d99a7993cd49a76bbc6a63884ee, type: 3}
+  name: "C\u01B0a S\u1EAFt"
+  description: "T\u1EA1o ra 1 l\u01B0\u1EE1i c\u01B0a bay xung quanh ng\u01B0\u1EDDi
+    ch\u01A1i trong 4 gi\xE2y v\xE0 g\xE2y s\xE1t th\u01B0\u01A1ng cho k\u1EBB \u0111\u1ECBch
+    ch\u1EA1m ph\u1EA3i"
+  icon: {fileID: 21300000, guid: d1a6e35e6c3d3e945b8dc784b1204259, type: 3}
+  sprite: {fileID: 6131154842760392290, guid: 9f62b136689b0944ba6b96fd9e970ddc, type: 3}
+  summonNum: 1

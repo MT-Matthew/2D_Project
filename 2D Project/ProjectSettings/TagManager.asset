@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Timer
+  - Trigger
+  - Exp
+  - Magnet
+  - Manager
+  - Mini Boss
+  - Boss
+  - Coin
+  - Box
+  - Level
+  - Box-Open
+  - Heal
+  - Hurt
+  - Audio
+  - Game Over
+  - Background
+  - Exp-Collect
+  - Global Light
+  - Player Light
+  - Alert
+  - Light Beam
+  - Lamp
+  - Player-Hitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 23149543
+    locked: 0

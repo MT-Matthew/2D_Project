@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Fire Wave Weapon Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1040266436599689045, guid: be0e2c70781717049ae1d7262b50c809, type: 3}
+  damage: 0
+  speed: 4
+  cooldownDuration: 1
+  decayTime: 0
+  knockBack: 0
+  pierce: 0
+  attackRadius: 5
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: "S\xF3ng L\u1EEDa Level 2"
+  description: "T\u0103ng di\u1EC7n t\xEDch v\xE0 t\u1ED1c \u0111\u1ED9 c\u1EE7a
+    l\xE0n s\xF3ng"
+  icon: {fileID: 21300000, guid: d5cdfa03b391455408f789e31af4850c, type: 3}
+  sprite: {fileID: 2126745560691318843, guid: eb28d4e55969344419543eb231627a70, type: 3}
+  summonNum: 0

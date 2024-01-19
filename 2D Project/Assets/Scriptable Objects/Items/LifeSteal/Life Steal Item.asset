@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45187d5af67bcf8499c759abfc00c03f, type: 3}
+  m_Name: Life Steal Item
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3265058743816999306, guid: 1ea65e3c8b8707b4d8a1dd48cd8ceede, type: 3}
+  multipler: 1
+  level: 1
+  nextLevelPrefab: {fileID: 3265058743816999306, guid: 7128ae4aecb420c43bb30f2ea0fe2e52, type: 3}
+  name: "H\xFAt M\xE1u"
+  description: "H\u1ED3i l\u1EA1i cho ng\u01B0\u1EDDi ch\u01A1i l\u01B0\u1EE3ng m\xE1u
+    b\u1EB1ng 1% s\xE1t th\u01B0\u01A1ng g\xE2y ra"
+  icon: {fileID: 21300000, guid: 107cac0ef44e0064b80041d78a111abb, type: 3}

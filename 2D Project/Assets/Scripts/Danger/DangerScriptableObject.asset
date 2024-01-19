@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34736010beb510f48b68400f251e2e0b, type: 3}
+  m_Name: DangerScriptableObject
+  m_EditorClassIdentifier: 
+  dangers:
+  - dangerPrefab: {fileID: 3249551180073593859, guid: 3534c0f938cc1bc42a95c7c42e079f4e, type: 3}
+    duration: 20
+  - dangerPrefab: {fileID: 9170768609711932919, guid: def7a7108ed380740b8e29588aa9e984, type: 3}
+    duration: 20

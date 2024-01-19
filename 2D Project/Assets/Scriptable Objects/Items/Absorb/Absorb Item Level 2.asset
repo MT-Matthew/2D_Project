@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45187d5af67bcf8499c759abfc00c03f, type: 3}
+  m_Name: Absorb Item Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3265058743816999306, guid: 00b80e9c58be712448f8c9d5513fadeb, type: 3}
+  multipler: 5
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: "H\u1EA5p Th\u1EE5 Lv2"
+  description: "Ng\u01B0\u1EDDi ch\u01A1i c\xF3 10% kh\u1EA3 n\u0103ng h\u1EA5p th\u1EE5
+    20 m\xE1u t\u1EEB k\u1EBB \u0111\u1ECBch bi ti\xEAu di\u1EC7t"
+  icon: {fileID: 21300000, guid: 5a8b45bc4bd0e7c43986efb55822c2bf, type: 3}

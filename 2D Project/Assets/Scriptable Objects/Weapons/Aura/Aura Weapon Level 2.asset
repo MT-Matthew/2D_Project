@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf0baf3c564a884dbbae3a8da8e633a, type: 3}
+  m_Name: Aura Weapon Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6773540657714597988, guid: d08a484c0a415734cab309956044c555, type: 3}
+  damage: 44
+  speed: 0
+  cooldownDuration: 0.75
+  decayTime: 0
+  knockBack: 0
+  pierce: 0
+  attackRadius: 4
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: "Kh\xED \u0110\u1ED9c Level 2"
+  description: "T\u1EA1o ra m\u1ED9t v\xF9ng kh\xED \u0111\u1ED9c g\xE2y s\xE1t th\u01B0\u01A1ng
+    li\xEAn t\u1EE5c"
+  icon: {fileID: 21300000, guid: a5cc60f386a594b4297548d919df096a, type: 3}
+  sprite: {fileID: 8030919149954530227, guid: c06fab9d678e77443bd20b3674ed6175, type: 3}
